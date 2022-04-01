@@ -1,0 +1,15 @@
+<%- include("partials/compose_header"); -%>
+<h1 class="m-5 font-weight-bold text-center">Compose Your Own Journal 📖🖋</h1>
+<form action="/compose" method="post" class="form-group">
+  <span class="m-3 font-weight-bold h3">Title</span>
+  <input type="text" name="newTitleText" autocomplete="off" class="form-control m-5">
+  <span class="m-3 font-weight-bold h3">Post</span>
+  <textarea name="newPostText" autocomplete="off" rows="5" cols="30" class="form-control m-5"></textarea>
+  <br>
+  <div class="btn-contain">
+    <button type="submit" name="button" class="btn btn-primary m-3">Publish</button>
+    <div class="brn-particles">
+    </div>
+  </div>
+</form>
+<%- include("partials/footer"); -%>
