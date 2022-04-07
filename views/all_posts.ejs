@@ -9,8 +9,6 @@
     <p>
         <%= element.content.substring(0, 100) + "..." %>
         <a href="/all_posts/<%=element._id%>" style="text-decoration: none;">Read More</a>
-        <button class="botn btn btn-success" name="deleteBtn" value="<%=element._id%>" onClick="this.form.submit()"> <i
-            class="fas fa-trash-alt"></i></button>
     </p>
 
     <% }); %>
