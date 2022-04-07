@@ -252,16 +252,16 @@ app.post("/compose", function (req, res) {
   });
 });
 
-app.post("/delete", function (req, res) {
-  const clickedPostId = req.body.deleteBtn;
+// app.post("/delete", function (req, res) {
+//   const clickedPostId = req.body.deleteBtn;
 
-  Post.findByIdAndDelete(clickedPostId, function (err) {
-    if (!err) {
-      console.log("Hata diya vr0");
-      res.redirect("/all_posts");
-    }
-  });
-});
+//   Post.findByIdAndDelete(clickedPostId, function (err) {
+//     if (!err) {
+//       console.log("Hata diya vr0");
+//       res.redirect("/all_posts");
+//     }
+//   });
+// });
 
 app.get("/search", function (req, res) {
   const searchField = req.query.dsearch;
