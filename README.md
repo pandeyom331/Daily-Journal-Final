@@ -1,6 +1,6 @@
 # Daily-Journal
 <h1>TITLE--Daily-Journal</h1>
-<a href="https://daily-journals-v.herokuapp.com/">Daily-Journal</a>
+<!-- <a href="https://daily-journals-v.herokuapp.com/">Daily-Journal</a> -->
 Created using Node.js, Express.js, MongoDB, Ejs, BootStrap, HTML, CSS and Deployed on Heroku.
          
 <h2> FEATURES -- </h2>
@@ -24,8 +24,8 @@ Created using Node.js, Express.js, MongoDB, Ejs, BootStrap, HTML, CSS and Deploy
  <img src="https://github.com/pandeyom331/Daily-Journal/blob/main/public/img1/Capture2.PNG" width="75%"></img><hr width="760px;">    
  <img src="https://github.com/pandeyom331/Daily-Journal/blob/main/public/img1/Capture3.PNG" width="75%"></img><hr width="760px;">    
  <img src="https://github.com/pandeyom331/Daily-Journal/blob/main/public/img1/Capture4.PNG" width="75%"></img><hr width="760px;">    
- <h1>LINK-- </h2>
-  You can directly check the website at--https://daily-journals-v.herokuapp.com/ (deployed on Heroku)
+<!--  <h1>LINK-- </h2> -->
+<!--   You can directly check the website at--https://daily-journals-v.herokuapp.com/ (deployed on Heroku) -->
  
 
 
