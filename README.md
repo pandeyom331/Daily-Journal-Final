@@ -1,7 +1,7 @@
 # Daily-Journal
 <h1>TITLE--Daily-Journal</h1>
 <!-- <a href="https://daily-journals-v.herokuapp.com/">Daily-Journal</a> -->
-Created using Node.js, Express.js, MongoDB, Ejs, BootStrap, HTML, CSS and Deployed on Heroku.
+Created using Node.js, Express.js, MongoDB, Ejs, BootStrap, HTML and CSS.
          
 <h2> FEATURES -- </h2>
 <p>
