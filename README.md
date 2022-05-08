@@ -1,7 +1,7 @@
 # Daily-Journal
 <h1>TITLE--Daily-Journal</h1>
-<!-- <a href="https://daily-journals-v.herokuapp.com/">Daily-Journal</a> -->
-Created using Node.js, Express.js, MongoDB, Ejs, BootStrap, HTML and CSS.
+<a href="https://daily-journals-v.herokuapp.com/">Daily-Journal</a>
+Created using Node.js, Express.js, MongoDB, Ejs, BootStrap, HTML, CSS and Deployed on Heroku.
          
 <h2> FEATURES -- </h2>
 <p>
@@ -26,6 +26,20 @@ Created using Node.js, Express.js, MongoDB, Ejs, BootStrap, HTML and CSS.
  <img src="https://github.com/pandeyom331/Daily-Journal/blob/main/public/img1/Capture4.PNG" width="75%"></img><hr width="760px;">    
 <!--  <h1>LINK-- </h2> -->
 <!--   You can directly check the website at--https://daily-journals-v.herokuapp.com/ (deployed on Heroku) -->
- 
 
+<h1> TESTING-- </h1>
+                                                                                        
+<ul>
+  <li>Clone the repo</li>
+  <li>Install <a href="https://www.npmjs.com/get-npm">npm</a>.</li>
+  <li>Head over to the cloned folder using CLI</li>
+  <li>Type - npm install </li>
+  <li>Run=>  nodemon app.js</li>
+  <li>Now now go to localhost:4000 in your browser and you can now try daily journal.</li>
+</ul>
+
+
+<h1>LINK-- </h2>
+  You can directly check the website at--https://daily-journals-v.herokuapp.com/ (deployed on Heroku)
+ 
 
